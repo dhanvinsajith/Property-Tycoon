@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "token": "0",
+      "type": "Human Player",
+      "name": "dolly​",
+      "color": "1"
+    },
+    {
+      "token": "4",
+      "type": "Human Player",
+      "name": "vinnstar​",
+      "color": "4"
+    },
+    {
+      "token": "3",
+      "type": "Human Player",
+      "name": "ali​",
+      "color": "2"
+    },
+    {
+      "token": -1,
+      "type": "",
+      "name": "",
+      "color": -1
+    },
+    {
+      "token": -1,
+      "type": "",
+      "name": "",
+      "color": -1
+    }
+  ]
+}
